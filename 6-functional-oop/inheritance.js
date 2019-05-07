@@ -1,3 +1,14 @@
+//Inheritance
+//What is it
+// Tight coupling
+// Fragile Base class problem
+// Hierarchy 
+
+//few operations on common data
+//Statefull
+//side effect
+
+
 class Character {
   constructor(name, weapon) {
     this.name = name;
