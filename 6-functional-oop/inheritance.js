@@ -7,6 +7,7 @@
 //few operations on common data
 //Statefull
 //side effect
+//imperative
 
 
 class Character {

@@ -1,3 +1,8 @@
+// many operrations on fiexd data
+// stateless
+// pure
+// declerative
+
 const user = {
   name: 'Hiep',
   active: true,
